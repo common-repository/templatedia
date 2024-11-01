@@ -1,0 +1,331 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Templatedia v1.0.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2007-09-04 00:44-0800\n"
+"Last-Translator: Viper007Bond <poedit@viper007bond.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\\..\\\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: templatedia\n"
+"X-Poedit-SearchPath-1: templatedia-chess\n"
+
+#: templatedia/templatedia-mediawiki-variables.php:37
+msgid "The current year, UTC timezone"
+msgstr ""
+
+#: templatedia/templatedia-mediawiki-variables.php:38
+msgid "The current month (zero-padded), UTC timezone"
+msgstr ""
+
+#: templatedia/templatedia-mediawiki-variables.php:39
+msgid "The current month name, UTC timezone"
+msgstr ""
+
+#: templatedia/templatedia-mediawiki-variables.php:40
+msgid "The current month (abbreviation), UTC timezone"
+msgstr ""
+
+#: templatedia/templatedia-mediawiki-variables.php:41
+msgid "The current day of the month (unpadded), UTC timezone"
+msgstr ""
+
+#: templatedia/templatedia-mediawiki-variables.php:42
+msgid "The current day of the month (zero-padded), UTC timezone"
+msgstr ""
+
+#: templatedia/templatedia-mediawiki-variables.php:43
+msgid "The current day of the week (unpadded), UTC timezone"
+msgstr ""
+
+#: templatedia/templatedia-mediawiki-variables.php:44
+msgid "The current name of the day of the week, UTC timezone"
+msgstr ""
+
+#: templatedia/templatedia-mediawiki-variables.php:45
+msgid "The current time (24-hour HH:mm format), UTC timezone"
+msgstr ""
+
+#: templatedia/templatedia-mediawiki-variables.php:46
+msgid "The current hour (24-hour zero-padded number), UTC timezone"
+msgstr ""
+
+#: templatedia/templatedia-mediawiki-variables.php:47
+msgid "The current week of the year, UTC timezone"
+msgstr ""
+
+#: templatedia/templatedia-mediawiki-variables.php:48
+msgid "The current ISO 8601 timestamp, UTC timezone"
+msgstr ""
+
+#: templatedia/templatedia-mediawiki-variables.php:51
+msgid "The current year, blog timezone"
+msgstr ""
+
+#: templatedia/templatedia-mediawiki-variables.php:52
+msgid "The current month (zero-padded), blog timezone"
+msgstr ""
+
+#: templatedia/templatedia-mediawiki-variables.php:53
+msgid "The current month name, blog timezone"
+msgstr ""
+
+#: templatedia/templatedia-mediawiki-variables.php:54
+msgid "The current month (abbreviation), blog timezone"
+msgstr ""
+
+#: templatedia/templatedia-mediawiki-variables.php:55
+msgid "The current day of the month (unpadded), blog timezone"
+msgstr ""
+
+#: templatedia/templatedia-mediawiki-variables.php:56
+msgid "The current day of the month (zero-padded), blog timezone"
+msgstr ""
+
+#: templatedia/templatedia-mediawiki-variables.php:57
+msgid "The current day of the week (unpadded), blog timezone"
+msgstr ""
+
+#: templatedia/templatedia-mediawiki-variables.php:58
+msgid "The current name of the day of the week, blog timezone"
+msgstr ""
+
+#: templatedia/templatedia-mediawiki-variables.php:59
+msgid "The current time (24-hour HH:mm format), blog timezone"
+msgstr ""
+
+#: templatedia/templatedia-mediawiki-variables.php:60
+msgid "The current hour (24-hour zero-padded number), blog timezone"
+msgstr ""
+
+#: templatedia/templatedia-mediawiki-variables.php:61
+msgid "The current week of the year, blog timezone"
+msgstr ""
+
+#: templatedia/templatedia-mediawiki-variables.php:62
+msgid "The current ISO 8601 timestamp, blog timezone"
+msgstr ""
+
+#: templatedia/templatedia.php:47
+msgid "Website title as set in General Options"
+msgstr ""
+
+#: templatedia/templatedia.php:48
+msgid "The URL to your website with no trailing slash"
+msgstr ""
+
+#: templatedia/templatedia.php:49
+msgid "The URL to your WordPress install with no trailing slash"
+msgstr ""
+
+#: templatedia/templatedia.php:50
+msgid "The URL to your \"wp-content\" folder with no trailing slash"
+msgstr ""
+
+#: templatedia/templatedia.php:57
+msgid "Templatedia Template Management"
+msgstr ""
+
+#: templatedia/templatedia.php:57
+msgid "Templates"
+msgstr ""
+
+#: templatedia/templatedia.php:75
+#: templatedia/templatedia.php:105
+msgid "You must enter a stub for the template."
+msgstr ""
+
+#: templatedia/templatedia.php:77
+#: templatedia/templatedia.php:116
+#, php-format
+msgid "A template with this stub already exists. Please pick a different stub name or <a href=\"%s\">edit the existing one</a>."
+msgstr ""
+
+#: templatedia/templatedia.php:83
+#: templatedia/templatedia.php:111
+msgid "A variable with this stub name already exists. Please pick a different stub name to avoid a conflict."
+msgstr ""
+
+#: templatedia/templatedia.php:140
+msgid "You can't delete a template that doesn't exist!"
+msgstr ""
+
+#: templatedia/templatedia.php:143
+msgid "This template is not deletable as it is a special template that was added by a plugin. Disable the plugin that added it if you wish to remove this template."
+msgstr ""
+
+#: templatedia/templatedia.php:177
+msgid "An example template with the parameter \"text\" and an include of the \"wordpresslogo\" template. You can safely delete this."
+msgstr ""
+
+#: templatedia/templatedia.php:178
+msgid "The parameter &quot;<code>text</code>&quot; has been set to: <code>{{{text|NOTHING}}}</code>"
+msgstr ""
+
+#: templatedia/templatedia.php:178
+msgid "Here is the template &quot;<code>wordpresslogo</code>&quot;:"
+msgstr ""
+
+#: templatedia/templatedia.php:182
+msgid "An example template that allows you to add a Digg button to a post. You can safely delete this."
+msgstr ""
+
+#: templatedia/templatedia.php:187
+msgid "An example template that allows you to display an image of your choosing with a border. You can safely delete this."
+msgstr ""
+
+#: templatedia/templatedia.php:192
+msgid "An example template that displays the WordPress logo. You can safely delete this."
+msgstr ""
+
+#: templatedia/templatedia.php:214
+msgid "The title of the current post or page"
+msgstr ""
+
+#: templatedia/templatedia.php:218
+msgid "The full URL to the current post or page"
+msgstr ""
+
+#: templatedia/templatedia.php:222
+msgid "The date of when the current post or page was published formatted as specified in the General Options"
+msgstr ""
+
+#: templatedia/templatedia.php:226
+msgid "The time of when the current post or page was published formatted as specified in the General Options"
+msgstr ""
+
+#: templatedia/templatedia.php:230
+msgid "Displays the type of post this is, i.e. \"post\" or \"page\""
+msgstr ""
+
+#: templatedia/templatedia.php:234
+msgid "The ID of the current post or page"
+msgstr ""
+
+#: templatedia/templatedia.php:260
+#, php-format
+msgid "No template with the stub &quot;%s&quot; exists."
+msgstr ""
+
+#: templatedia/templatedia.php:275
+msgid "Template added."
+msgstr ""
+
+#: templatedia/templatedia.php:276
+msgid "Template edited."
+msgstr ""
+
+#: templatedia/templatedia.php:277
+msgid "Template deleted."
+msgstr ""
+
+#: templatedia/templatedia.php:278
+msgid "All templates have been deleted and the default examples restored."
+msgstr ""
+
+#: templatedia/templatedia.php:282
+#: templatedia/templatedia.php:372
+msgid "Templatedia"
+msgstr ""
+
+#: templatedia/templatedia.php:282
+#, php-format
+msgid "Manage Templates (<a href=\"%s\">add new</a>)"
+msgstr ""
+
+#: templatedia/templatedia.php:285
+#, php-format
+msgid "No templates currently exist. <a href=\"%s\">Go make one</a>!"
+msgstr ""
+
+#: templatedia/templatedia.php:290
+msgid "Stub"
+msgstr ""
+
+#: templatedia/templatedia.php:291
+#: templatedia/templatedia.php:415
+msgid "Description"
+msgstr ""
+
+#: templatedia/templatedia.php:301
+msgid "Edit"
+msgstr ""
+
+#: templatedia/templatedia.php:302
+#, php-format
+msgid ""
+"You are about to delete this template '%s'.\n"
+"'OK' to delete, 'Cancel' to stop."
+msgstr ""
+
+#: templatedia/templatedia.php:302
+msgid "Delete"
+msgstr ""
+
+#: templatedia/templatedia.php:323
+msgid "Add Template"
+msgstr ""
+
+#: templatedia/templatedia.php:329
+msgid "Edit Template"
+msgstr ""
+
+#: templatedia/templatedia.php:347
+msgid "This template is not editable as it is a special template that was added by a plugin."
+msgstr ""
+
+#: templatedia/templatedia.php:382
+msgid "Template Stub:"
+msgstr ""
+
+#: templatedia/templatedia.php:385
+msgid "A unique identifier for this template that'll be used to call it. Keep it simple."
+msgstr ""
+
+#: templatedia/templatedia.php:389
+msgid "Template Description:"
+msgstr ""
+
+#: templatedia/templatedia.php:393
+msgid "Template Code:"
+msgstr ""
+
+#: templatedia/templatedia.php:393
+msgid "HTML is allowed"
+msgstr ""
+
+#: templatedia/templatedia.php:396
+msgid "Be careful and make sure to no get stuck in an infinite template include loop! For example, don't include template A in template B which has template A already included in it."
+msgstr ""
+
+#: templatedia/templatedia.php:401
+msgid "&raquo;"
+msgstr ""
+
+#: templatedia/templatedia.php:406
+msgid "Available Variables"
+msgstr ""
+
+#: templatedia/templatedia.php:408
+msgid "Click on one of these variables to insert it into the template. The latest published post has been used as an example for the post-specfic variables."
+msgstr ""
+
+#: templatedia/templatedia.php:413
+msgid "Variable"
+msgstr ""
+
+#: templatedia/templatedia.php:414
+msgid "Example Display"
+msgstr ""
+
+#: templatedia/templatedia.php:421
+msgid "Click to insert into template"
+msgstr ""
+
+#: templatedia-chess/templatedia-chess-template.php:153
+msgid "<em>This variable is used internally for the chess template</em>"
+msgstr ""
+
